@@ -1,4 +1,5 @@
 # 🦜 LangChain: Summarize Text From YouTube or Websites
+Live Link - https://yt-website-content-summarizer-jrdg8drgjgyno4xasxqjke.streamlit.app/
 
 ## Overview
 Welcome to the **LangChain Summarizer**! This Streamlit app leverages cutting-edge language models and AI-powered embedding techniques to provide concise summaries of content from YouTube videos or websites. Using a combination of the **Groq Gemma-7b-It model** and **OpenAI embeddings**, this tool allows users to extract key insights from long-form content without reading or watching everything themselves.
